@@ -22,7 +22,7 @@ code {
 .statistics-container {
   display: flex;
   flex-wrap: wrap;
-  align-items: end;
+  align-items: flex-end;
   justify-content: center;
   gap: 30px;
   margin-top: 20px;
